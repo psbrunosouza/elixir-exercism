@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bird-count/.idea/bird-count.iml" filepath="$PROJECT_DIR$/bird-count/.idea/bird-count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/darts/.idea/darts.iml" filepath="$PROJECT_DIR$/darts/.idea/darts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/elixir_exercism.iml" filepath="$PROJECT_DIR$/.idea/elixir_exercism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freelancer-rates/.idea/freelancer-rates.iml" filepath="$PROJECT_DIR$/freelancer-rates/.idea/freelancer-rates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guessing-game/.idea/guessing-game.iml" filepath="$PROJECT_DIR$/guessing-game/.idea/guessing-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/high-school-sweetheart/.idea/high-school-sweetheart.iml" filepath="$PROJECT_DIR$/high-school-sweetheart/.idea/high-school-sweetheart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitchen-calculator/.idea/kitchen-calculator.iml" filepath="$PROJECT_DIR$/kitchen-calculator/.idea/kitchen-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/language-list/.idea/language-list.iml" filepath="$PROJECT_DIR$/language-list/.idea/language-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lasagna/.idea/lasagna.iml" filepath="$PROJECT_DIR$/lasagna/.idea/lasagna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leap/.idea/leap.iml" filepath="$PROJECT_DIR$/leap/.idea/leap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-level/.idea/log-level.iml" filepath="$PROJECT_DIR$/log-level/.idea/log-level.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacman-rules/.idea/pacman-rules.iml" filepath="$PROJECT_DIR$/pacman-rules/.idea/pacman-rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secrets/.idea/secrets.iml" filepath="$PROJECT_DIR$/secrets/.idea/secrets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two-fer/.idea/two-fer.iml" filepath="$PROJECT_DIR$/two-fer/.idea/two-fer.iml" />
+    </modules>
+  </component>
+</project>
